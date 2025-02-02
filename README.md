@@ -8,6 +8,7 @@ Python 3.11.9
 
 ```bash
  pip install -r requirements.txt
+```
 
 ```bash
  python main.py
